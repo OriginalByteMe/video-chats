@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/laserlemon/figaro
+  revision: 5756dfde97b157343215bf740c9ac6efec4f95e7
+  specs:
+    figaro (1.2.0)
+      thor (>= 0.14.0, < 2)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -346,6 +353,7 @@ DEPENDENCIES
   brakeman
   capybara
   debug
+  figaro!
   importmap-rails
   jbuilder
   kamal
